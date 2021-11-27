@@ -2,10 +2,6 @@
 <a href="https://www.linkedin.com/in/prajishajayaprakasan/">
   <img align="left" alt="Prajisha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/prajishajp">
-  <img align="left" alt="Prajisha's FB" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=prajishajp)
 
